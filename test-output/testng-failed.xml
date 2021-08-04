@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Automation Suite]">
+  <test thread-count="5" name="Automation_Test(failed)">
+    <classes>
+      <class name="com.tests.CerebraHealthTest">
+        <methods>
+          <include name="loginForMultipleUsers"/>
+          <include name="quit"/>
+          <include name="init"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.tests.CerebraHealthTest -->
+    </classes>
+  </test> <!-- Automation_Test(failed) -->
+</suite> <!-- Failed suite [Automation Suite] -->

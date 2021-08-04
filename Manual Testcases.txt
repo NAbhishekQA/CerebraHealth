@@ -1,0 +1,18 @@
+1. Check whether the Search Field is Enabled or not
+2. Check whether the Filter option is Enabled or not
+3. Search can be done based on the different filters like Status filter,version Filter and Site
+4. Check whether searching can be done with only Status filter 
+5. Check whether searching can be done with only Version filter
+6. Check whether searching can be done with only Site filter
+7. Check whether searching can be done with status filter and version filter
+8. Check whether searching can be done with status filter and Site filter
+9. Check whether searching can be done with version filter and Site filter
+10. Check whether the returned fields are from the filtered values or not.
+11. Check whether the Apply button is enabled or not
+12. Check whether the Apply butoon is clickable or not
+13. Check whether the Clear button is enabled or not
+14. Check whether the Clear button is clickable or not
+15. Check whether when Apply button is clicked respective filtered fields are loading or not.
+16. Check whether when clear button is clicked already checked and filtered fields are clearing or not.
+17. Check whether all the field values are populated with their repective values in the table shown like searial ID,version,IMEI,status and Site.
+18. Check whether the search bar is appearing on all the 20 pages where there are records across.
